@@ -1,0 +1,39 @@
+{
+  "name": "Scribo",
+  "logoImg": "logo.png",
+  "bannerTitle": "Developer Hub",
+  "bannerDescription": "Welcome to Scribo developer hub.",
+  "theme": {
+    "primaryColor": "#111a2b",
+    "headerFontColor": "#fff"
+  },
+  "menus": [
+    {
+      "label": "About",
+      "href": "https://scribo.dev"
+    },
+    {
+      "label": "Carrer",
+      "href": "https://scribo.dev"
+    }
+  ],
+  "docs": [
+    {
+      "name": "Tutorial",
+      "description": "Gettting Started with Scribo Platform",
+      "href": "tutorial"
+    },
+    {
+      "name": "Scribo API",
+      "description": "Scribo REST API",
+      "href": "scribo-api"
+    },
+    {
+      "name": "Scribo Private Doc",
+      "description": "Scribo Private Doc",
+      "private": true,
+      "href": "scribo-docs",
+      "repo": "https://github.com/relferreira/scribo-docs"
+    }
+  ]
+}
